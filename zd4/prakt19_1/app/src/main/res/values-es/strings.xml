@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Crime</string>
+    <string name="crime_title_hint">Enter a title for the crime.</string>
+    <string name="crime_title_label">Title</string>
+    <string name="crime_details_label">Details</string>
+    <string name="crime_solved_label">Solved</string>
+    <string name="for_police">911 call</string>
+    <string name="new_crime">New Crime</string>
+    <string name="sendReport">Send Report</string>
+    <string name="crime_report">%1$s! The crime was discovered on %2$s. %3$s, and %4$s</string>
+    <string name="crime_report_solved">The case is solved</string>
+    <string name="crime_report_unsolved">The case is not solved</string>
+    <string name="crime_report_no_suspect">there is no suspect</string>
+    <string name="crime_report_suspect">the suspect is %s</string>
+    <string name="crime_report_subject">CriminalIntent</string>
+    <string name="send_report">Send Crime</string>
+    <string name="crime_messageDate">The crime was discovered on</string>
+    <string name="crime_messageCase">The case is solved, and there is no suspend</string>
+    <string name="action_settings">Add to DB</string>
+    <string name="messageAdd">Saved</string>
+</resources>
